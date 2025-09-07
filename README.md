@@ -40,10 +40,7 @@ This project presents a **Power BI dashboard** for **Blinkit (India's Last Minut
    - Item Type
 8. Dashboards/Demos
    show what the dashboard looks like. -[Alt text](https://github.com/Abhi22-cod/Blinkit-dashboard/blob/main/BlinkIt.png)
-<img width="552" height="25" alt="image" src="https://github.com/user-attachments/assets/f1e7631f-54f5-444c-81ce-f09b875b44ce" />
-)
    Example: ![Dashboard preview](https://github.com/Abhi22-cod/Blinkit-dashboard/blob/main/BlinkIt.png)
-<img width="552" height="25" alt="image" src="https://github.com/user-attachments/assets/bc196daf-5619-468b-b186-bc2f3d913dd8" />
  
 
 ## 🛠️ Tools Used  
